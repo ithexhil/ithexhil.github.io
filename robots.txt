@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ithexhil.github.io/sitemap.ithexhil.gz
+Sitemap: https://ithexhil.github.io/app/sitemap.ithexhil.gz
+Sitemap: https://ithexhil.github.io/assets/sitemap.ithexhil.gz
+Sitemap: https://ithexhil.github.io/css/sitemap.ithexhil.gz
+Sitemap: https://ithexhil.github.io/data/sitemap.ithexhil.gz
+Sitemap: https://ithexhil.github.io/includes/sitemap.ithexhil.gz
+Sitemap: https://ithexhil.github.io/item/sitemap.ithexhil.gz
+Sitemap: https://ithexhil.github.io/src/sitemap.ithexhil.gz
